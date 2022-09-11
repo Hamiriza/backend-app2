@@ -35,7 +35,7 @@ app.get("/", (request, response) => {
 });
 app.get("/api", (request, response) => {
   response.send(
-    "<h1>/api</h1><div><p>avaiable route</p><p>/api/users</p><p>/api/users/:id</p></div>"
+    "<h1>/api</h1><div><p>avaiable routes</p><p>/api/users</p><p>/api/relationships</p></div>"
   );
 });
 app.use("/api/login", loginRouter);
