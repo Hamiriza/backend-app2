@@ -105,7 +105,7 @@ Token authentication and password hashing are provided in the app. jsonwebtoken 
    }
    ```
 
-4. put request will need relationshipId in the url parameter and userId to delete in the body:
+4. put request will need relationshipId in the url parameter and userId to add in the body:
 
    ```json
    PUT http://localhost:3003/api/relationships/631c8f6301f5f3b7c27956ce

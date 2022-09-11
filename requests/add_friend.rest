@@ -1,0 +1,7 @@
+PUT http://localhost:3003/api/relationships/631c8f6301f5f3b7c27956ce
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiaWQiOiI2MzFjOGY2MzAxZjVmM2I3YzI3OTU2ZDAiLCJpYXQiOjE2NjI4ODYwODIsImV4cCI6MTY2Mjg4OTY4Mn0.MqRE7ln1kIrVCnCzzmlXv3PfTgdaDGgmjZNhuaHicoM
+
+{
+    "userId":"631c8fe401f5f3b7c27956d6"
+}

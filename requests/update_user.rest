@@ -1,0 +1,8 @@
+PUT http://localhost:3003/api/users/631d871056864be74158360a
+Content-Type: application/json
+
+{
+    "dob":"1990-10-21",
+    "address":"Wyrming Lane",
+    "description":"A proud person"
+}
